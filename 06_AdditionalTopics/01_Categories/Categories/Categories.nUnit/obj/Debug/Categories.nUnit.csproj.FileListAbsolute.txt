@@ -1,0 +1,7 @@
+C:\Courseware\VS2015-UnitTest\Exercise Files\06_AdditionalTopics\01_Categories\Categories\Categories.nUnit\bin\Debug\Categories.nUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\06_AdditionalTopics\01_Categories\Categories\Categories.nUnit\bin\Debug\Categories.nUnit.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\06_AdditionalTopics\01_Categories\Categories\Categories.nUnit\bin\Debug\nunit.framework.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\06_AdditionalTopics\01_Categories\Categories\Categories.nUnit\bin\Debug\nunit.framework.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\06_AdditionalTopics\01_Categories\Categories\Categories.nUnit\obj\Debug\Categories.nUnit.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Exercise Files\06_AdditionalTopics\01_Categories\Categories\Categories.nUnit\obj\Debug\Categories.nUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\06_AdditionalTopics\01_Categories\Categories\Categories.nUnit\obj\Debug\Categories.nUnit.pdb

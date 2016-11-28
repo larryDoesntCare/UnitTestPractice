@@ -1,0 +1,25 @@
+c:\users\walt\documents\visual studio 2015\Projects\UnitTests\BrokerageLib\bin\Debug\BrokerageLib.dll
+c:\users\walt\documents\visual studio 2015\Projects\UnitTests\BrokerageLib\bin\Debug\BrokerageLib.pdb
+c:\users\walt\documents\visual studio 2015\Projects\UnitTests\BrokerageLib\obj\Debug\BrokerageLib.csprojResolveAssemblyReference.cache
+c:\users\walt\documents\visual studio 2015\Projects\UnitTests\BrokerageLib\obj\Debug\BrokerageLib.dll
+c:\users\walt\documents\visual studio 2015\Projects\UnitTests\BrokerageLib\obj\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\UnitTests\BrokerageLib\obj\Debug\BrokerageLib.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Prototypes\UnitTests\BrokerageLib\obj\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\UnitTests\BrokerageLib\obj\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\UnitTests\BrokerageLib\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\UnitTests\BrokerageLib\bin\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\03_MsTest\04_CreateUnitTest\Create\BrokerageLib\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\03_MsTest\04_CreateUnitTest\Create\BrokerageLib\bin\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\03_MsTest\04_CreateUnitTest\Create\BrokerageLib\obj\Debug\BrokerageLib.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Exercise Files\03_MsTest\04_CreateUnitTest\Create\BrokerageLib\obj\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\03_MsTest\04_CreateUnitTest\Create\BrokerageLib\obj\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\03_MsTest\06_PassTest\Pass\BrokerageLib\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\03_MsTest\06_PassTest\Pass\BrokerageLib\bin\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\03_MsTest\06_PassTest\Pass\BrokerageLib\obj\Debug\BrokerageLib.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Exercise Files\03_MsTest\06_PassTest\Pass\BrokerageLib\obj\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\03_MsTest\06_PassTest\Pass\BrokerageLib\obj\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\03_MsTest\06_PassTest\Pass - Done\BrokerageLib\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\03_MsTest\06_PassTest\Pass - Done\BrokerageLib\bin\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\03_MsTest\06_PassTest\Pass - Done\BrokerageLib\obj\Debug\BrokerageLib.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Exercise Files\03_MsTest\06_PassTest\Pass - Done\BrokerageLib\obj\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\03_MsTest\06_PassTest\Pass - Done\BrokerageLib\obj\Debug\BrokerageLib.pdb

@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="BrokerageLib.Tests.GettingAPaymentDate_Should.ReturnDate30DaysInFuture_WhenProposedDateFallsOnWeekday" /></Playlist>

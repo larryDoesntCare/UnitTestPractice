@@ -1,0 +1,5 @@
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_InstallXUnit\Install\BrokerageLib.xUnit\bin\Debug\BrokerageLib.xUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_InstallXUnit\Install\BrokerageLib.xUnit\bin\Debug\BrokerageLib.xUnit.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_InstallXUnit\Install\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_InstallXUnit\Install\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_InstallXUnit\Install\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.pdb

@@ -1,0 +1,61 @@
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestRunner\bin\Debug\TestRunner.exe.config
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestRunner\bin\Debug\TestRunner.exe
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestRunner\bin\Debug\TestRunner.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestRunner\bin\Debug\TestingLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestRunner\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestRunner\bin\Debug\TestingLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestRunner\bin\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestRunner\obj\Debug\TestRunner.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestRunner\obj\Debug\MainWindow.g.cs
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestRunner\obj\Debug\App.g.cs
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestRunner\obj\Debug\TestRunner_MarkupCompile.cache
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestRunner\obj\Debug\TestRunner_MarkupCompile.lref
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestRunner\obj\Debug\MainWindow.baml
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestRunner\obj\Debug\TestRunner.g.resources
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestRunner\obj\Debug\TestRunner.Properties.Resources.resources
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestRunner\obj\Debug\TestRunner.csproj.GenerateResource.Cache
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestRunner\obj\Debug\TestRunner.exe
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestRunner\obj\Debug\TestRunner.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests - Refactor\TestRunner\obj\Debug\TestRunner.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests - Refactor\TestRunner\obj\Debug\MainWindow.g.cs
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests - Refactor\TestRunner\obj\Debug\App.g.cs
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests - Refactor\TestRunner\obj\Debug\TestRunner_MarkupCompile.cache
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests - Refactor\TestRunner\obj\Debug\TestRunner_MarkupCompile.lref
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests - Refactor\TestRunner\obj\Debug\TestRunner.exe
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests - Refactor\TestRunner\obj\Debug\TestRunner.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestRunner\bin\Debug\TestRunner.exe.config
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestRunner\obj\Debug\TestRunner.exe
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestRunner\obj\Debug\TestRunner.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestRunner\bin\Debug\TestRunner.exe
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestRunner\bin\Debug\TestRunner.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestRunner\bin\Debug\TestingLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestRunner\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestRunner\bin\Debug\TestingLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestRunner\bin\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestRunner\obj\Debug\TestRunner.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestRunner\obj\Debug\MainWindow.g.cs
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestRunner\obj\Debug\App.g.cs
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestRunner\obj\Debug\TestRunner_MarkupCompile.cache
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestRunner\obj\Debug\TestRunner_MarkupCompile.lref
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestRunner\obj\Debug\MainWindow.baml
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestRunner\obj\Debug\TestRunner.g.resources
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestRunner\obj\Debug\TestRunner.Properties.Resources.resources
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestRunner\obj\Debug\TestRunner.csproj.GenerateResource.Cache
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestRunner\bin\Debug\TestRunner.exe.config
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestRunner\bin\Debug\TestRunner.exe
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestRunner\bin\Debug\TestRunner.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestRunner\bin\Debug\TestingLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestRunner\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestRunner\bin\Debug\TestingLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestRunner\bin\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestRunner\obj\Debug\TestRunner.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestRunner\obj\Debug\MainWindow.g.cs
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestRunner\obj\Debug\App.g.cs
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestRunner\obj\Debug\TestRunner_MarkupCompile.cache
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestRunner\obj\Debug\TestRunner_MarkupCompile.lref
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestRunner\obj\Debug\MainWindow.baml
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestRunner\obj\Debug\TestRunner.g.resources
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestRunner\obj\Debug\TestRunner.Properties.Resources.resources
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestRunner\obj\Debug\TestRunner.csproj.GenerateResource.Cache
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestRunner\obj\Debug\TestRunner.exe
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestRunner\obj\Debug\TestRunner.pdb

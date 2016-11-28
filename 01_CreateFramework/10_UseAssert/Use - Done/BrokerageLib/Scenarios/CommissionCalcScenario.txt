@@ -1,0 +1,13 @@
+﻿//  Given-When-Then pattern
+
+Given an sales incentive commission system
+	When trader sells at or above the incentive thresholds
+	Then trader receives the Top commission rate
+	
+
+
+	Given an sales incentive commission system
+	When trader sells below the incentive thresholds
+	Then trader receives the Standard commission rate
+	
+

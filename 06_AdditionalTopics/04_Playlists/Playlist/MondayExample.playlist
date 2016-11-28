@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="CategoriesAndTraits.MsTest.CategoryExample.ReturnMonday_WhenProposedDateFallsOnSunday" /><Add Test="CategoriesAndTraits.MsTest.CategoryExample.InitializeAccount_WhenCustomerInformationIsSupplied" /><Add Test="CategoriesAndTraits.MsTest.CategoryExample.InitializeAccount_WhenAccountIsNew" /></Playlist>

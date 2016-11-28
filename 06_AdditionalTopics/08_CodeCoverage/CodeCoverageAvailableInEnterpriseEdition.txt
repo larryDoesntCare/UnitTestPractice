@@ -1,0 +1,2 @@
+Code coverage tool is available in Visual Studio Enterprise edition only.
+

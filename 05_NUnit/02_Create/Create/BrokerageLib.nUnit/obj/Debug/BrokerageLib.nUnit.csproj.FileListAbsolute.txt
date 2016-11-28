@@ -1,0 +1,14 @@
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\01_InstallNUnit\Install\BrokerageLib.nUnit\bin\Debug\BrokerageLib.nUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\01_InstallNUnit\Install\BrokerageLib.nUnit\bin\Debug\BrokerageLib.nUnit.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\01_InstallNUnit\Install\BrokerageLib.nUnit\obj\Debug\BrokerageLib.nUnit.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\01_InstallNUnit\Install\BrokerageLib.nUnit\obj\Debug\BrokerageLib.nUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\01_InstallNUnit\Install\BrokerageLib.nUnit\obj\Debug\BrokerageLib.nUnit.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\02_Create\Create\BrokerageLib.nUnit\bin\Debug\BrokerageLib.nUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\02_Create\Create\BrokerageLib.nUnit\bin\Debug\BrokerageLib.nUnit.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\02_Create\Create\BrokerageLib.nUnit\bin\Debug\nunit.framework.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\02_Create\Create\BrokerageLib.nUnit\bin\Debug\nunit.framework.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\02_Create\Create\BrokerageLib.nUnit\obj\Debug\BrokerageLib.nUnit.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\02_Create\Create\BrokerageLib.nUnit\obj\Debug\BrokerageLib.nUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\02_Create\Create\BrokerageLib.nUnit\obj\Debug\BrokerageLib.nUnit.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\02_Create\Create\BrokerageLib.nUnit\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\02_Create\Create\BrokerageLib.nUnit\bin\Debug\BrokerageLib.pdb

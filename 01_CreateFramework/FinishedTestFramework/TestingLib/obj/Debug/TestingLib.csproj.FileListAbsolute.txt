@@ -1,0 +1,28 @@
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestingLib\bin\Debug\TestingLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestingLib\bin\Debug\TestingLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestingLib\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestingLib\bin\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestingLib\obj\Debug\TestingLib.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestingLib\obj\Debug\TestingLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\TestingLib\obj\Debug\TestingLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests - Refactor\TestingLib\bin\Debug\TestingLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests - Refactor\TestingLib\bin\Debug\TestingLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests - Refactor\TestingLib\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests - Refactor\TestingLib\bin\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests - Refactor\TestingLib\obj\Debug\TestingLib.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests - Refactor\TestingLib\obj\Debug\TestingLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests - Refactor\TestingLib\obj\Debug\TestingLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestingLib\bin\Debug\TestingLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestingLib\bin\Debug\TestingLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestingLib\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestingLib\bin\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestingLib\obj\Debug\TestingLib.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestingLib\obj\Debug\TestingLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\UseAssertClass\TestingLib\obj\Debug\TestingLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestingLib\obj\Debug\TestingLib.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestingLib\obj\Debug\TestingLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestingLib\obj\Debug\TestingLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestingLib\bin\Debug\TestingLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestingLib\bin\Debug\TestingLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestingLib\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\5Reflection\TestingLib\bin\Debug\BrokerageLib.pdb

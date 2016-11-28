@@ -1,0 +1,20 @@
+c:\users\walt\documents\visual studio 2015\Projects\UnitTests\BrokerageLib\bin\Debug\BrokerageLib.dll
+c:\users\walt\documents\visual studio 2015\Projects\UnitTests\BrokerageLib\bin\Debug\BrokerageLib.pdb
+c:\users\walt\documents\visual studio 2015\Projects\UnitTests\BrokerageLib\obj\Debug\BrokerageLib.csprojResolveAssemblyReference.cache
+c:\users\walt\documents\visual studio 2015\Projects\UnitTests\BrokerageLib\obj\Debug\BrokerageLib.dll
+c:\users\walt\documents\visual studio 2015\Projects\UnitTests\BrokerageLib\obj\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\UnitTests\BrokerageLib\obj\Debug\BrokerageLib.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Prototypes\UnitTests\BrokerageLib\obj\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\UnitTests\BrokerageLib\obj\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\UnitTests\BrokerageLib\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\UnitTests\BrokerageLib\bin\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_InstallXUnit\Install\BrokerageLib\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_InstallXUnit\Install\BrokerageLib\bin\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_InstallXUnit\Install\BrokerageLib\obj\Debug\BrokerageLib.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_InstallXUnit\Install\BrokerageLib\obj\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_InstallXUnit\Install\BrokerageLib\obj\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\01_InstallNUnit\Install\BrokerageLib\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\01_InstallNUnit\Install\BrokerageLib\bin\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\01_InstallNUnit\Install\BrokerageLib\obj\Debug\BrokerageLib.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\01_InstallNUnit\Install\BrokerageLib\obj\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\01_InstallNUnit\Install\BrokerageLib\obj\Debug\BrokerageLib.pdb

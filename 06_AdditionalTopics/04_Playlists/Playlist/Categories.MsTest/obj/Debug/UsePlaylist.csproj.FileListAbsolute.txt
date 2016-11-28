@@ -1,0 +1,6 @@
+C:\Courseware\VS2015-UnitTest\Exercise Files\06_AdditionalTopics\04_Playlists\Playlist\Categories.MsTest\bin\Debug\CategoriesAndTraits.MsTest.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\06_AdditionalTopics\04_Playlists\Playlist\Categories.MsTest\bin\Debug\CategoriesAndTraits.MsTest.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\06_AdditionalTopics\04_Playlists\Playlist\Categories.MsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\06_AdditionalTopics\04_Playlists\Playlist\Categories.MsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\06_AdditionalTopics\04_Playlists\Playlist\Categories.MsTest\obj\Debug\CategoriesAndTraits.MsTest.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\06_AdditionalTopics\04_Playlists\Playlist\Categories.MsTest\obj\Debug\CategoriesAndTraits.MsTest.pdb

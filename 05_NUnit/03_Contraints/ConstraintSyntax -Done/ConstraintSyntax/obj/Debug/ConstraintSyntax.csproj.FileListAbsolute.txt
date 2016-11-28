@@ -1,0 +1,7 @@
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\03_Contraints\ConstraintSyntax\ConstraintSyntax\ConstraintSyntax\bin\Debug\ConstraintSyntax.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\03_Contraints\ConstraintSyntax\ConstraintSyntax\ConstraintSyntax\bin\Debug\ConstraintSyntax.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\03_Contraints\ConstraintSyntax\ConstraintSyntax\ConstraintSyntax\bin\Debug\nunit.framework.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\03_Contraints\ConstraintSyntax\ConstraintSyntax\ConstraintSyntax\bin\Debug\nunit.framework.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\03_Contraints\ConstraintSyntax\ConstraintSyntax\ConstraintSyntax\obj\Debug\ConstraintSyntax.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\03_Contraints\ConstraintSyntax\ConstraintSyntax\ConstraintSyntax\obj\Debug\ConstraintSyntax.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\05_NUnit\03_Contraints\ConstraintSyntax\ConstraintSyntax\ConstraintSyntax\obj\Debug\ConstraintSyntax.pdb

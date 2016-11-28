@@ -1,0 +1,1 @@
+CodeLens tool is available in Visual Studio Professional and Enterprise editions only.

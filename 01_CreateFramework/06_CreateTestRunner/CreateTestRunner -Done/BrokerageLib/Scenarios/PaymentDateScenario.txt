@@ -1,0 +1,10 @@
+﻿[ The Given-When-Then pattern ]
+To calculate the next payment date for our customer bills
+
+Given a valid start date
+  When the future calculated payment date falls on a weekday 
+	Then use the calculated date
+
+Given a valid start date
+	When the future calculated payment date falls on the weekend  
+	Then use the first Monday after calculated date

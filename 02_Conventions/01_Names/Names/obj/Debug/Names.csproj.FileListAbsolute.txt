@@ -1,0 +1,7 @@
+C:\Courseware\VS2015-UnitTest\Exercise Files\02_Conventions\01_Names\Names\bin\Debug\Names.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\02_Conventions\01_Names\Names\bin\Debug\Names.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\02_Conventions\01_Names\Names\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\02_Conventions\01_Names\Names\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\02_Conventions\01_Names\Names\obj\Debug\Names.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Exercise Files\02_Conventions\01_Names\Names\obj\Debug\Names.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\02_Conventions\01_Names\Names\obj\Debug\Names.pdb
